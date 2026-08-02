@@ -1,0 +1,15 @@
+# Verdex
+
+> Verdex builds AI for the clinical workflow. The first product rooms patients and takes histories by voice before the physician walks in. The physician gets the story in three sentences, and a structured, signable history lands back in the EHR the practice already runs.
+
+Verdex is for clinicians, practice owners, and health-system teams. The agent gathers and organizes the history. It never diagnoses or advises, escalates anything urgent to staff immediately, keeps every line of the note traceable to its source, and is HIPAA compliant.
+
+The site at verdexai.com renders in the browser, so the documents below are the reliable machine-readable source for what Verdex does.
+
+## Docs
+
+- [Full Overview](https://www.verdexai.com/llms-full.txt): Everything on the site in one document, including the problem Verdex solves, how a visit works, the trust and safety posture, and guidance for agents acting on behalf of a user
+
+## Contact
+
+- [Verdex](https://www.verdexai.com): To reach the team, use the contact form on the site. It goes to a human.

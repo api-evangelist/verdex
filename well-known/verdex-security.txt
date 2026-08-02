@@ -1,0 +1,7 @@
+Contact: https://www.verdexai.com/#contact
+Expires: 2027-07-14T00:00:00.000Z
+Canonical: https://www.verdexai.com/.well-known/security.txt
+Preferred-Languages: en
+
+# To report a security issue, use the contact form at https://www.verdexai.com/
+# It goes to a human.
