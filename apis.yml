@@ -38,7 +38,7 @@ x-identity-note: >-
   patient-rooming product. Some third-party search snippets conflate this name
   with an unrelated crop-insurance company; the live site is treated as
   authoritative here. No public API surface exists as of this pass.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
