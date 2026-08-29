@@ -37,6 +37,8 @@ description: >-
   robots.txt, and a security.txt but does not (yet) expose a public API,
   developer portal, SDKs, or OpenAPI surface.
 url: https://raw.githubusercontent.com/api-evangelist/verdex/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
